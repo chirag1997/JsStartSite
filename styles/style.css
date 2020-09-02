@@ -1,0 +1,29 @@
+html
+{
+	background-color: lightgray;
+}
+h1 {
+    margin: 0;
+    padding: 20px 0px;
+    color: cornflowerblue;
+    text-shadow: 3px 3px 1px white;
+    text-align: center;
+}
+
+p, li {
+  font-size: 16px;    
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+body{
+	width: 600px;
+    margin: 0px auto;
+    padding: 0px 20px 20px 20px;
+    background-color: wheat;
+    border: 5px solid black;
+}
+img{
+	display: block;
+    margin: 0 auto;
+}
